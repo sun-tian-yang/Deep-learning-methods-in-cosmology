@@ -6,10 +6,11 @@
 
 | 章节 | 建议目录 | 案例主题 | 任务类型 | 主要方法 |
 |---|---|---|---|---|
-| 第 2 章 | `ch02_bao_ann/` | 基于 BAO 的模型区分 | 三分类：$\Lambda$CDM / $w$CDM / CPL | ANN / MLP + Cross Entropy |
-| 第 3 章 | `ch03_hi21cm_unet/` | HI 21cm 前景减除 | 三维体素级信号重建 | PCA + 3D U-Net |
-| 第 4 章 | `ch04_gw_rnn/` | 基于基础 RNN 的引力波信号三分类 | BBH / Burst / Noise 分类 | Simple RNN + Cross Entropy |
-| 第 5 章 | `ch05_sne_npe_flow/` | Ia 型超新星宇宙学参数后验估计 | $\Omega_m, H_0$ 后验估计 | Gaussian NLL + Conditional Normalizing Flow |
+| 第 2 章 | `01_BAO_Model_Classification_ANN.ipynb` | 基于 BAO 的模型区分 | 三分类：$\Lambda$CDM / $w$CDM / CPL | ANN / MLP + Cross Entropy |
+| 第 3 章 | `02_hi21cm_unet.ipynb` | HI 21cm 前景减除 | 三维体素级信号重建 | PCA + 3D U-Net |
+| 第 3 章 | `03_CMB_Regression_CNN_vs_ANN.ipynb` | CMB 功率谱参数回归 | 宇宙学参数点估计 | ResNet / CNN / ANN |
+| 第 4 章 | `04_GW_Classification_RNN_vs_ANN.ipynb` | 基于基础 RNN 的引力波信号三分类 | BBH / Burst / Noise 分类 | Simple RNN + Cross Entropy |
+| 第 5 章 | `05_SNe_Posterior_NLL_vs_NF.ipynb` | Ia 型超新星宇宙学参数后验估计 | 宇宙学参数后验估计 | Gaussian NLL + Conditional Normalizing Flow |
 
 ## 项目特点
 
