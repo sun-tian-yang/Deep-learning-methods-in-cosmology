@@ -6,7 +6,7 @@
 
 | 章节 | 建议目录 | 案例主题 | 任务类型 | 主要方法 |
 |---|---|---|---|---|
-| 第 2 章 | `01_BAO_Model_Classification_ANN.ipynb` | 基于 BAO 的模型区分 | 三分类：$\Lambda$CDM / $w$CDM / CPL | ANN / MLP + Cross Entropy |
+| 第 2 章 | `01_BAO_Model_Classification_ANN.ipynb` | 基于 BAO 的模型区分 | 三分类：LCDM / wCDM / CPL | ANN / MLP + Cross Entropy |
 | 第 3 章 | `02_hi21cm_unet.ipynb` | HI 21cm 前景减除 | 三维体素级信号重建 | PCA + 3D U-Net |
 | 第 3 章 | `03_CMB_Regression_CNN_vs_ANN.ipynb` | CMB 功率谱参数回归 | 宇宙学参数点估计 | ResNet / CNN / ANN |
 | 第 4 章 | `04_GW_Classification_RNN_vs_ANN.ipynb` | 基于基础 RNN 的引力波信号三分类 | BBH / Burst / Noise 分类 | Simple RNN + Cross Entropy |
