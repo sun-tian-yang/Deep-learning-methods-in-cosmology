@@ -30,6 +30,7 @@
 ```bash
 git clone https://github.com/sun-tian-yang/Deep-learning-methods-in-cosmology.git
 cd Deep-learning-methods-in-cosmology
+```
 
 ## 注意事项
 
