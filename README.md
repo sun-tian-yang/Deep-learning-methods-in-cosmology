@@ -31,6 +31,10 @@
 
 这些代码主要用于配合教材理解深度学习方法在宇宙学中的应用边界。真实科研分析通常需要更完整的物理建模、误差传播、系统误差检验和统计校准。因此，建议将本仓库作为教学示例、方法原型或课程实验的起点，而不是直接作为正式宇宙学参数约束结果。
 
+PyTorch 的 GPU 版本与本机 CUDA 环境有关。若需要 GPU 加速，建议根据
+[PyTorch 官方安装说明](https://pytorch.org/get-started/locally/)
+选择对应 CUDA 版本；若仅使用 CPU，可直接通过 `pip install -r requirements.txt` 安装。
+
 ## 许可证
 
 本仓库仅包含教材配套代码，包括 Python 脚本、PyTorch 模型、数据处理脚本和绘图程序。  
