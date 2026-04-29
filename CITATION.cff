@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Deep Learning Methods in Cosmology: Companion Code"
+message: "If you use this companion code in your work, please cite it as below."
+type: software
+authors:
+  - family-names: "Sun"
+    given-names: "Tianyang"
+year: 2026
+license: "MIT"
+url: "https://github.com/sun-tian-yang/Deep-learning-methods-in-cosmology"
+repository-code: "https://github.com/sun-tian-yang/Deep-learning-methods-in-cosmology"
+abstract: "Companion code repository for textbook examples on deep learning methods in cosmology, including BAO model classification, CMB parameter regression, 21 cm foreground removal, gravitational-wave classification, and supernova posterior estimation."
+keywords:
+  - cosmology
+  - deep learning
+  - neural networks
+  - PyTorch
+  - BAO
+  - CMB
+  - gravitational waves
+  - supernova cosmology
+  - normalizing flows
